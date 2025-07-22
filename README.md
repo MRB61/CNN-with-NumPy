@@ -6,6 +6,8 @@ This project explores the implementation of a Convolutional Neural Network (CNN)
 
 The architecture is intentionally minimal:
 
+![Model Architecture](My_architecture-1.png)
+
 1. `Conv2d(1 → 8, kernel_size=5)` → LeakyReLU  
 2. `Conv2d(8 → 8, kernel_size=5)` → MaxPool(2x2) → LeakyReLU  
 3. `Conv2d(8 → 8, kernel_size=3)` → LeakyReLU  
