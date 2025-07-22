@@ -1,7 +1,7 @@
 # Yoga Pose Classification with CNN from Scratch
 DATASET==https://sites.google.com/view/yoga-82/home
 
-This project explores the implementation of a Convolutional Neural Network (CNN) built entirely from scratch using PyTorch. The goal is not state-of-the-art performance but to deepen understanding of how CNNs work mathematically and programmatically.
+This project explores the implementation of a Convolutional Neural Network (CNN) built entirely from scratch using NumPy. The goal is not state-of-the-art performance but to deepen understanding of how CNNs work mathematically and programmatically.
 ## CNN Architecture
 
 The architecture is intentionally minimal:
